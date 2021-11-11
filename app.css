@@ -594,16 +594,3 @@ video {
 [hidden] {
   display: none;
 }
-
-.text-center {
-  text-align: center;
-}
-
-.font-bold {
-  font-weight: 700;
-}
-
-.text-purple-700 {
-  --tw-text-opacity: 1;
-  color: rgba(109, 40, 217, var(--tw-text-opacity));
-}

@@ -3,7 +3,12 @@ module.exports = {
     purge: ["../*.html"],
     darkMode: false, // or 'media' or 'class'
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                'body': ['Open Sans', sans - serif],
+                'heading': ['Raleway', sans - serif],
+            }
+        },
     },
     variants: {
         extend: {},
