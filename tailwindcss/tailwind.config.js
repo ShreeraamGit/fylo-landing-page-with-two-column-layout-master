@@ -5,8 +5,8 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                'body': "'Open Sans', sans - serif",
-                'heading': "'Raleway', sans - serif"
+                'body': ['Open Sans'],
+                'heading': ['Raleway']
             }
         },
     },
