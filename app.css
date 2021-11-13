@@ -762,6 +762,10 @@ video {
     margin-right: 5rem;
   }
 
+  .lg\:mt-7 {
+    margin-top: 1.75rem;
+  }
+
   .lg\:flex {
     display: flex;
   }
@@ -798,6 +802,26 @@ video {
   .lg\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
+  }
+
+  .lg\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .lg\:text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+
+  .lg\:text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .lg\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   .lg\:leading-relaxed {
