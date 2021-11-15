@@ -11,8 +11,8 @@ module.exports = {
             backgroundColor: theme => ({
                 ...theme('colors'),
                 'button-bg': 'hsl(224, 93%, 58%)',
-                'button-hover-bg': 'hsl(170, 45%, 43%)'
-
+                'button-hover-bg': 'hsl(170, 45%, 43%)',
+                'desaturated-blue': 'hsl(238, 22%, 44%)',
             })
         },
     },
