@@ -695,6 +695,14 @@ video {
   margin-bottom: 5rem;
 }
 
+.mt-28 {
+  margin-top: 7rem;
+}
+
+.mt-32 {
+  margin-top: 8rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -763,6 +771,10 @@ video {
 
 .border-2 {
   border-width: 2px;
+}
+
+.border-none {
+  border-style: none;
 }
 
 .border-gray-700 {
