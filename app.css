@@ -687,6 +687,10 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.mt-0 {
+  margin-top: 0px;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -761,6 +765,10 @@ video {
 
 .rounded-full {
   border-radius: 9999px;
+}
+
+.rounded-tl-custom {
+  border-top-left-radius: 100px;
 }
 
 .border {
@@ -917,6 +925,10 @@ video {
     margin-top: 1.25rem;
   }
 
+  .lg\:mt-11 {
+    margin-top: 2.75rem;
+  }
+
   .lg\:flex {
     display: flex;
   }
@@ -969,11 +981,6 @@ video {
   .lg\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
-  }
-
-  .lg\:text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
   }
 
   .lg\:text-base {
