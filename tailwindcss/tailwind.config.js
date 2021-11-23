@@ -8,6 +8,14 @@ module.exports = {
                 'body': ['Open Sans'],
                 'heading': ['Raleway']
             },
+            backgroundImage: {
+                'curve-pattern': "url('/images/wave.svg')",
+            },
+            textColor: {
+                'primary': '#3490dc',
+                'secondary': '#ffed4a',
+                'working-button': 'hsl(170, 45%, 43%)'
+            },
             borderRadius: {
                 'none': '0',
                 'sm': '0.125rem',
